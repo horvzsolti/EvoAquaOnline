@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvoAqua", "EvoAqua\EvoAqua.csproj", "{C9930B80-2088-4BD1-8E04-8EC018F4B73D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9930B80-2088-4BD1-8E04-8EC018F4B73D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9930B80-2088-4BD1-8E04-8EC018F4B73D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9930B80-2088-4BD1-8E04-8EC018F4B73D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9930B80-2088-4BD1-8E04-8EC018F4B73D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0708826-C337-4C6E-BB79-AC91C8D4DDD3}
+	EndGlobalSection
+EndGlobal
